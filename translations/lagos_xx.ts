@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en_US">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -44,7 +44,7 @@
 <context>
     <name>AccountCreateDialog</name>
     <message>
-        <source>Create My TeamSpeak Account</source>
+        <source>Create your myTeamSpeak Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -60,7 +60,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global Nickname:</source>
+        <source>Username:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -91,7 +91,7 @@
 <context>
     <name>AccountLoginDialog</name>
     <message>
-        <source>Login to your My TeamSpeak Account</source>
+        <source>Login to your myTeamSpeak Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -166,7 +166,7 @@ It can be used to recover your data in case you lost your account password.</sou
 <context>
     <name>AccountSetup</name>
     <message>
-        <source>My TeamSpeak Account</source>
+        <source>myTeamSpeak Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -194,7 +194,7 @@ It can be used to recover your data in case you lost your account password.</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak Account Features:</source>
+        <source>myTeamSpeak Account Features:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -213,7 +213,7 @@ It can be used to recover your data in case you lost your account password.</sou
 <context>
     <name>AccountVerifyDialog</name>
     <message>
-        <source>My TeamSpeak Account Verification</source>
+        <source>myTeamSpeak Account Verification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -641,6 +641,7 @@ Inserting a modified copy instead.</source>
         <source>Do you really want to delete the selected ban(s)?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -655,7 +656,7 @@ Inserting a modified copy instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MyTeamSpeak Bookmarks</source>
+        <source>myTeamSpeak Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -815,6 +816,7 @@ servers will not be cleared.</source>
         <source>%n file(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -824,6 +826,7 @@ servers will not be cleared.</source>
     <message numerus="yes">
         <source>Deleted %n file(s) with a total size of %1.</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -924,11 +927,11 @@ servers will not be cleared.</source>
 <context>
     <name>ChangeAccountUsernameDialog</name>
     <message>
-        <source>Change Global Nickname</source>
+        <source>Change Username</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;New Global Nickname:</source>
+        <source>New &amp;Username:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1329,6 +1332,7 @@ servers will not be cleared.</source>
         <source>Delete client(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1489,6 +1493,7 @@ Press Enter to apply filter.</source>
         <source>has %n complaint(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1506,6 +1511,7 @@ Press Enter to apply filter.</source>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1974,6 +1980,7 @@ There can be only one default channel for the whole server.</source>
     <message numerus="yes">
         <source>&lt;p&gt;A parent channel has a delete delay lower than this channel (%n second(s)).&lt;/p&gt;</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2656,11 +2663,13 @@ p, li { white-space: pre-wrap; }
         <source>%n directory(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2672,12 +2681,14 @@ p, li { white-space: pre-wrap; }
         <source>Do you really want to delete this file(s)?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2840,6 +2851,7 @@ All files inside the deleted folder(s) will be lost.</source>
         <source>Found %n filetransfer(s) in progess which will be aborted if you press Ok.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2899,6 +2911,7 @@ selected files from your computer?</source>
         <source>Upload limited to %n slot(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2912,6 +2925,7 @@ selected files from your computer?</source>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -4327,7 +4341,7 @@ The maximum allowed file size is %1 kB.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MyTeamSpeak Identities</source>
+        <source>myTeamSpeak Identities</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4675,6 +4689,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <message numerus="yes">
         <source>Server Group(s):</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5167,11 +5182,11 @@ Current: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;My TeamSpeak Account</source>
+        <source>&amp;myTeamSpeak Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Visit the My TeamSpeak account webpage</source>
+        <source>Visit the myTeamSpeak account webpage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5561,6 +5576,7 @@ Current: %1</source>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -6351,6 +6367,7 @@ Current: %1</source>
     <message numerus="yes">
         <source>Delete messages(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7305,6 +7322,7 @@ Would you like to create an invitation instead?</source>
         <source>%n unread offline message(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7315,11 +7333,13 @@ Would you like to create an invitation instead?</source>
         <source>%n year(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7327,17 +7347,20 @@ Would you like to create an invitation instead?</source>
         <source>%n hour(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -7423,6 +7446,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>You can login or create an account at any time in Settings</source>
+        <comment>moved to com::teamspeak::ui::Account_Create_Login_Dialog</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9481,11 +9505,13 @@ Would you like to continue?</source>
         <source>Found %n unfinished filetransfer(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Do you want to resume your unfinished transfer(s) now?</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9618,6 +9644,7 @@ Do you want to apply your changes?</source>
         <source>%n new error message(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -9658,6 +9685,7 @@ Do you want to apply your changes?</source>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;You have &lt;strong&gt;%n&lt;/strong&gt; unread offlinemessage(s)&lt;/p&gt;</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -9671,6 +9699,7 @@ Do you want to apply your changes?</source>
         <source>%n download(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9681,6 +9710,7 @@ Do you want to apply your changes?</source>
         <source>%n upload(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9690,6 +9720,7 @@ Do you want to apply your changes?</source>
     <message numerus="yes">
         <source>%n queued</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9707,6 +9738,7 @@ Do you want to apply your changes?</source>
     <message numerus="yes">
         <source>%n new warning message(s)</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9733,7 +9765,7 @@ Do you want to apply your changes?</source>
 <context>
     <name>SyncOverviewSlides</name>
     <message>
-        <source>My TeamSpeak</source>
+        <source>myTeamSpeak</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11885,7 +11917,7 @@ Useful for servers with a lot of channels and clients.</source>
 <context>
     <name>com::teamspeak::ui::AccountSetup</name>
     <message>
-        <source>Account</source>
+        <source>myTeamSpeak</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11905,7 +11937,7 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Global Nickname</source>
+        <source>Change Username</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11953,7 +11985,7 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please confirm your My TeamSpeak account password</source>
+        <source>Please confirm your myTeamSpeak account password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11968,7 +12000,7 @@ Useful for servers with a lot of channels and clients.</source>
 <context>
     <name>com::teamspeak::ui::Account_Create_Login_Dialog</name>
     <message>
-        <source>My Teamspeak Account</source>
+        <source>myTeamSpeak Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11996,15 +12028,15 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global Nickname is too short</source>
+        <source>Username is too short</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global Nickname is too long, maximium length is %1 characters</source>
+        <source>Username is too long, maximium length is %1 characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unknown Global Nickname error</source>
+        <source>Unknown Username error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12024,11 +12056,11 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>email already taken</source>
+        <source>Email already taken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global nickname already taken</source>
+        <source>Username already taken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12037,6 +12069,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Critical management error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can login or create an account at any time in Settings</source>
+        <comment>QObject</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12269,19 +12306,19 @@ Useful for servers with a lot of channels and clients.</source>
 <context>
     <name>com::teamspeak::ui::ChangeAccountUsernameDialog</name>
     <message>
-        <source>Global Nickname successfully changed.</source>
+        <source>Username successfully changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to change Global Nickname.</source>
+        <source>Failed to change Username.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New Global Nickname is empty</source>
+        <source>New Username is empty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global Nickname already in use</source>
+        <source>Username already in use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12361,6 +12398,7 @@ Useful for servers with a lot of channels and clients.</source>
         <source>Do you really want to delete the selected identitie(s)?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -12382,6 +12420,7 @@ Useful for servers with a lot of channels and clients.</source>
     <message numerus="yes">
         <source>Failed to import %n identitie(s).</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -12436,27 +12475,27 @@ Useful for servers with a lot of channels and clients.</source>
 <context>
     <name>com::teamspeak::ui::SyncStatusWidget</name>
     <message>
-        <source>Failed to connect to My TeamSpeak account</source>
+        <source>Failed to connect to myTeamSpeak account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to synchronize with My TeamSpeak account</source>
+        <source>Failed to synchronize with myTeamSpeak account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak account connected</source>
+        <source>myTeamSpeak account connected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak account disconnected</source>
+        <source>myTeamSpeak account disconnected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak account error</source>
+        <source>myTeamSpeak account error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak syncing error</source>
+        <source>myTeamSpeak syncing error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12464,15 +12503,15 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak account collision detected</source>
+        <source>myTeamSpeak account collision detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak account limit exceeded</source>
+        <source>myTeamSpeak account limit exceeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Login with My TeamSpeak account</source>
+        <source>Login with myTeamSpeak account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12480,7 +12519,7 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My TeamSpeak notification</source>
+        <source>myTeamSpeak notification</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12599,6 +12638,7 @@ Do you really want to delete?</source>
     <message numerus="yes">
         <source>Assigned profile(s): %1</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
