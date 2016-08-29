@@ -1,667 +1,667 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de">
+<TS version="2.1" language="en">
 <context>
     <name>teamspeak_core_error</name>
     <message>
         <source>ts_core_error_0</source>
-        <translation type="unfinished"></translation>
+        <translation>ok</translation>
     </message>
     <message>
         <source>ts_core_error_1</source>
-        <translation type="unfinished"></translation>
+        <translation>undefined error</translation>
     </message>
     <message>
         <source>ts_core_error_2</source>
-        <translation type="unfinished"></translation>
+        <translation>not implemented</translation>
     </message>
     <message>
         <source>ts_core_error_3</source>
-        <translation type="unfinished"></translation>
+        <translation>ok</translation>
     </message>
     <message>
         <source>ts_core_error_4</source>
-        <translation type="unfinished"></translation>
+        <translation>ok</translation>
     </message>
     <message>
         <source>ts_core_error_5</source>
-        <translation type="unfinished"></translation>
+        <translation>library time limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_256</source>
-        <translation type="unfinished"></translation>
+        <translation>command not found</translation>
     </message>
     <message>
         <source>ts_core_error_257</source>
-        <translation type="unfinished"></translation>
+        <translation>unable to bind network port</translation>
     </message>
     <message>
         <source>ts_core_error_258</source>
-        <translation type="unfinished"></translation>
+        <translation>no network port available</translation>
     </message>
     <message>
         <source>ts_core_error_512</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid clientID</translation>
     </message>
     <message>
         <source>ts_core_error_513</source>
-        <translation type="unfinished"></translation>
+        <translation>nickname is already in use</translation>
     </message>
     <message>
         <source>ts_core_error_515</source>
-        <translation type="unfinished"></translation>
+        <translation>max clients protocol limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_516</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid client type</translation>
     </message>
     <message>
         <source>ts_core_error_517</source>
-        <translation type="unfinished"></translation>
+        <translation>already subscribed</translation>
     </message>
     <message>
         <source>ts_core_error_518</source>
-        <translation type="unfinished"></translation>
+        <translation>not logged in</translation>
     </message>
     <message>
         <source>ts_core_error_519</source>
-        <translation type="unfinished"></translation>
+        <translation>could not validate client identity</translation>
     </message>
     <message>
         <source>ts_core_error_520</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid loginname or password</translation>
     </message>
     <message>
         <source>ts_core_error_521</source>
-        <translation type="unfinished"></translation>
+        <translation>too many clones already connected</translation>
     </message>
     <message>
         <source>ts_core_error_522</source>
-        <translation type="unfinished"></translation>
+        <translation>client version outdated, please update</translation>
     </message>
     <message>
         <source>ts_core_error_523</source>
-        <translation type="unfinished"></translation>
+        <translation>client is online</translation>
     </message>
     <message>
         <source>ts_core_error_524</source>
-        <translation type="unfinished"></translation>
+        <translation>client is flooding</translation>
     </message>
     <message>
         <source>ts_core_error_525</source>
-        <translation type="unfinished"></translation>
+        <translation>client is modified</translation>
     </message>
     <message>
         <source>ts_core_error_526</source>
-        <translation type="unfinished"></translation>
+        <translation>can not verify client at this moment</translation>
     </message>
     <message>
         <source>ts_core_error_527</source>
-        <translation type="unfinished"></translation>
+        <translation>client is not permitted to log in</translation>
     </message>
     <message>
         <source>ts_core_error_528</source>
-        <translation type="unfinished"></translation>
+        <translation>client is not subscribed to the channel</translation>
     </message>
     <message>
         <source>ts_core_error_768</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid channelID</translation>
     </message>
     <message>
         <source>ts_core_error_769</source>
-        <translation type="unfinished"></translation>
+        <translation>max channels protocol limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_770</source>
-        <translation type="unfinished"></translation>
+        <translation>already member of channel</translation>
     </message>
     <message>
         <source>ts_core_error_771</source>
-        <translation type="unfinished"></translation>
+        <translation>channel name is already in use</translation>
     </message>
     <message>
         <source>ts_core_error_772</source>
-        <translation type="unfinished"></translation>
+        <translation>channel not empty</translation>
     </message>
     <message>
         <source>ts_core_error_773</source>
-        <translation type="unfinished"></translation>
+        <translation>can not delete default channel</translation>
     </message>
     <message>
         <source>ts_core_error_774</source>
-        <translation type="unfinished"></translation>
+        <translation>default channel requires permanent</translation>
     </message>
     <message>
         <source>ts_core_error_775</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid channel flags</translation>
     </message>
     <message>
         <source>ts_core_error_776</source>
-        <translation type="unfinished"></translation>
+        <translation>permanent channel can not be child of non permanent channel</translation>
     </message>
     <message>
         <source>ts_core_error_777</source>
-        <translation type="unfinished"></translation>
+        <translation>channel maxclient reached</translation>
     </message>
     <message>
         <source>ts_core_error_778</source>
-        <translation type="unfinished"></translation>
+        <translation>channel maxfamily reached</translation>
     </message>
     <message>
         <source>ts_core_error_779</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid channel order</translation>
     </message>
     <message>
         <source>ts_core_error_780</source>
-        <translation type="unfinished"></translation>
+        <translation>channel does not support filetransfers</translation>
     </message>
     <message>
         <source>ts_core_error_781</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid channel password</translation>
     </message>
     <message>
         <source>ts_core_error_782</source>
-        <translation type="unfinished"></translation>
+        <translation>channel is private channel</translation>
     </message>
     <message>
         <source>ts_core_error_1024</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid serverID</translation>
     </message>
     <message>
         <source>ts_core_error_1025</source>
-        <translation type="unfinished"></translation>
+        <translation>server is running</translation>
     </message>
     <message>
         <source>ts_core_error_1026</source>
-        <translation type="unfinished"></translation>
+        <translation>server is shutting down</translation>
     </message>
     <message>
         <source>ts_core_error_1027</source>
-        <translation type="unfinished"></translation>
+        <translation>server maxclient reached</translation>
     </message>
     <message>
         <source>ts_core_error_1028</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid server password</translation>
     </message>
     <message>
         <source>ts_core_error_1029</source>
-        <translation type="unfinished"></translation>
+        <translation>deployment active</translation>
     </message>
     <message>
         <source>ts_core_error_1030</source>
-        <translation type="unfinished"></translation>
+        <translation>unable to stop own server in your connection class</translation>
     </message>
     <message>
         <source>ts_core_error_1031</source>
-        <translation type="unfinished"></translation>
+        <translation>server is virtual</translation>
     </message>
     <message>
         <source>ts_core_error_1032</source>
-        <translation type="unfinished"></translation>
+        <translation>server wrong machineID</translation>
     </message>
     <message>
         <source>ts_core_error_1033</source>
-        <translation type="unfinished"></translation>
+        <translation>server is not running</translation>
     </message>
     <message>
         <source>ts_core_error_1034</source>
-        <translation type="unfinished"></translation>
+        <translation>server is booting up</translation>
     </message>
     <message>
         <source>ts_core_error_1035</source>
-        <translation type="unfinished"></translation>
+        <translation>server got an invalid status for this operation</translation>
     </message>
     <message>
         <source>ts_core_error_1036</source>
-        <translation type="unfinished"></translation>
+        <translation>server modal quit</translation>
     </message>
     <message>
         <source>ts_core_error_1037</source>
-        <translation type="unfinished"></translation>
+        <translation>server version is too old for command</translation>
     </message>
     <message>
         <source>ts_core_error_1038</source>
-        <translation type="unfinished"></translation>
+        <translation>server is already running under a different serverID</translation>
     </message>
     <message>
         <source>ts_core_error_1280</source>
-        <translation type="unfinished"></translation>
+        <translation>database error</translation>
     </message>
     <message>
         <source>ts_core_error_1281</source>
-        <translation type="unfinished"></translation>
+        <translation>database empty result set</translation>
     </message>
     <message>
         <source>ts_core_error_1282</source>
-        <translation type="unfinished"></translation>
+        <translation>database duplicate entry</translation>
     </message>
     <message>
         <source>ts_core_error_1283</source>
-        <translation type="unfinished"></translation>
+        <translation>database no modifications</translation>
     </message>
     <message>
         <source>ts_core_error_1284</source>
-        <translation type="unfinished"></translation>
+        <translation>database invalid constraint</translation>
     </message>
     <message>
         <source>ts_core_error_1285</source>
-        <translation type="unfinished"></translation>
+        <translation>database reinvoke command</translation>
     </message>
     <message>
         <source>ts_core_error_1536</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid quote</translation>
     </message>
     <message>
         <source>ts_core_error_1537</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid parameter count</translation>
     </message>
     <message>
         <source>ts_core_error_1538</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid parameter</translation>
     </message>
     <message>
         <source>ts_core_error_1539</source>
-        <translation type="unfinished"></translation>
+        <translation>parameter not found</translation>
     </message>
     <message>
         <source>ts_core_error_1540</source>
-        <translation type="unfinished"></translation>
+        <translation>convert error</translation>
     </message>
     <message>
         <source>ts_core_error_1541</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid parameter size</translation>
     </message>
     <message>
         <source>ts_core_error_1542</source>
-        <translation type="unfinished"></translation>
+        <translation>missing required parameter</translation>
     </message>
     <message>
         <source>ts_core_error_1543</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid checksum</translation>
     </message>
     <message>
         <source>ts_core_error_1793</source>
-        <translation type="unfinished"></translation>
+        <translation>Connection lost</translation>
     </message>
     <message>
         <source>ts_core_error_1794</source>
-        <translation type="unfinished"></translation>
+        <translation>not connected</translation>
     </message>
     <message>
         <source>ts_core_error_1795</source>
-        <translation type="unfinished"></translation>
+        <translation>no cached connection info</translation>
     </message>
     <message>
         <source>ts_core_error_1796</source>
-        <translation type="unfinished"></translation>
+        <translation>currently not possible</translation>
     </message>
     <message>
         <source>ts_core_error_1797</source>
-        <translation type="unfinished"></translation>
+        <translation>failed connection initialization</translation>
     </message>
     <message>
         <source>ts_core_error_1798</source>
-        <translation type="unfinished"></translation>
+        <translation>could not resolve hostname</translation>
     </message>
     <message>
         <source>ts_core_error_1799</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid server connection handler ID</translation>
     </message>
     <message>
         <source>ts_core_error_1800</source>
-        <translation type="unfinished"></translation>
+        <translation>could not initialize Input Manager</translation>
     </message>
     <message>
         <source>ts_core_error_1801</source>
-        <translation type="unfinished"></translation>
+        <translation>client library not initialized</translation>
     </message>
     <message>
         <source>ts_core_error_1802</source>
-        <translation type="unfinished"></translation>
+        <translation>server library not initialized</translation>
     </message>
     <message>
         <source>ts_core_error_1803</source>
-        <translation type="unfinished"></translation>
+        <translation>too many whisper targets</translation>
     </message>
     <message>
         <source>ts_core_error_1804</source>
-        <translation type="unfinished"></translation>
+        <translation>no whisper targets found</translation>
     </message>
     <message>
         <source>ts_core_error_2048</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid file name</translation>
     </message>
     <message>
         <source>ts_core_error_2049</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid file permissions</translation>
     </message>
     <message>
         <source>ts_core_error_2050</source>
-        <translation type="unfinished"></translation>
+        <translation>file already exists</translation>
     </message>
     <message>
         <source>ts_core_error_2051</source>
-        <translation type="unfinished"></translation>
+        <translation>file not found</translation>
     </message>
     <message>
         <source>ts_core_error_2052</source>
-        <translation type="unfinished"></translation>
+        <translation>file input/output error</translation>
     </message>
     <message>
         <source>ts_core_error_2053</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid file transfer ID</translation>
     </message>
     <message>
         <source>ts_core_error_2054</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid file path</translation>
     </message>
     <message>
         <source>ts_core_error_2055</source>
-        <translation type="unfinished"></translation>
+        <translation>no files available</translation>
     </message>
     <message>
         <source>ts_core_error_2056</source>
-        <translation type="unfinished"></translation>
+        <translation>overwrite excludes resume</translation>
     </message>
     <message>
         <source>ts_core_error_2057</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid file size</translation>
     </message>
     <message>
         <source>ts_core_error_2058</source>
-        <translation type="unfinished"></translation>
+        <translation>file already in use</translation>
     </message>
     <message>
         <source>ts_core_error_2059</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open file transfer connection</translation>
     </message>
     <message>
         <source>ts_core_error_2060</source>
-        <translation type="unfinished"></translation>
+        <translation>no space left on device (disk full?)</translation>
     </message>
     <message>
         <source>ts_core_error_2061</source>
-        <translation type="unfinished"></translation>
+        <translation>file exceeds file system&apos;s maximum file size</translation>
     </message>
     <message>
         <source>ts_core_error_2062</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer connection timeout</translation>
     </message>
     <message>
         <source>ts_core_error_2063</source>
-        <translation type="unfinished"></translation>
+        <translation>lost file transfer connection</translation>
     </message>
     <message>
         <source>ts_core_error_2064</source>
-        <translation type="unfinished"></translation>
+        <translation>file exceeds supplied file size</translation>
     </message>
     <message>
         <source>ts_core_error_2065</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer complete</translation>
     </message>
     <message>
         <source>ts_core_error_2066</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer canceled</translation>
     </message>
     <message>
         <source>ts_core_error_2067</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer interrupted</translation>
     </message>
     <message>
         <source>ts_core_error_2068</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer server quota exceeded</translation>
     </message>
     <message>
         <source>ts_core_error_2069</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer client quota exceeded</translation>
     </message>
     <message>
         <source>ts_core_error_2070</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer reset</translation>
     </message>
     <message>
         <source>ts_core_error_2071</source>
-        <translation type="unfinished"></translation>
+        <translation>file transfer limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_2304</source>
-        <translation type="unfinished"></translation>
+        <translation>preprocessor disabled</translation>
     </message>
     <message>
         <source>ts_core_error_2305</source>
-        <translation type="unfinished"></translation>
+        <translation>internal preprocessor</translation>
     </message>
     <message>
         <source>ts_core_error_2306</source>
-        <translation type="unfinished"></translation>
+        <translation>internal encoder</translation>
     </message>
     <message>
         <source>ts_core_error_2307</source>
-        <translation type="unfinished"></translation>
+        <translation>internal playback</translation>
     </message>
     <message>
         <source>ts_core_error_2308</source>
-        <translation type="unfinished"></translation>
+        <translation>no capture device available</translation>
     </message>
     <message>
         <source>ts_core_error_2309</source>
-        <translation type="unfinished"></translation>
+        <translation>no playback device available</translation>
     </message>
     <message>
         <source>ts_core_error_2310</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open capture device</translation>
     </message>
     <message>
         <source>ts_core_error_2311</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open playback device</translation>
     </message>
     <message>
         <source>ts_core_error_2312</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerConnectionHandler has a device registered</translation>
     </message>
     <message>
         <source>ts_core_error_2313</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid capture device</translation>
     </message>
     <message>
         <source>ts_core_error_2314</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid playback device</translation>
     </message>
     <message>
         <source>ts_core_error_2315</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid wave file</translation>
     </message>
     <message>
         <source>ts_core_error_2316</source>
-        <translation type="unfinished"></translation>
+        <translation>wave file type not supported</translation>
     </message>
     <message>
         <source>ts_core_error_2317</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open wave file</translation>
     </message>
     <message>
         <source>ts_core_error_2318</source>
-        <translation type="unfinished"></translation>
+        <translation>internal capture</translation>
     </message>
     <message>
         <source>ts_core_error_2319</source>
-        <translation type="unfinished"></translation>
+        <translation>device still in use</translation>
     </message>
     <message>
         <source>ts_core_error_2320</source>
-        <translation type="unfinished"></translation>
+        <translation>device already registerred</translation>
     </message>
     <message>
         <source>ts_core_error_2321</source>
-        <translation type="unfinished"></translation>
+        <translation>device not registered/known</translation>
     </message>
     <message>
         <source>ts_core_error_2322</source>
-        <translation type="unfinished"></translation>
+        <translation>unsupported frequency</translation>
     </message>
     <message>
         <source>ts_core_error_2323</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid channel count</translation>
     </message>
     <message>
         <source>ts_core_error_2324</source>
-        <translation type="unfinished"></translation>
+        <translation>read error in wave</translation>
     </message>
     <message>
         <source>ts_core_error_2325</source>
-        <translation type="unfinished"></translation>
+        <translation>sound need more data</translation>
     </message>
     <message>
         <source>ts_core_error_2326</source>
-        <translation type="unfinished"></translation>
+        <translation>sound device was busy</translation>
     </message>
     <message>
         <source>ts_core_error_2327</source>
-        <translation type="unfinished"></translation>
+        <translation>there is no sound data for this period</translation>
     </message>
     <message>
         <source>ts_core_error_2328</source>
-        <translation type="unfinished"></translation>
+        <translation>Channelmask set bits count (speakers) is not the same as channel (count)</translation>
     </message>
     <message>
         <source>ts_core_error_2560</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid group ID</translation>
     </message>
     <message>
         <source>ts_core_error_2561</source>
-        <translation type="unfinished"></translation>
+        <translation>duplicate entry</translation>
     </message>
     <message>
         <source>ts_core_error_2562</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid permission ID</translation>
     </message>
     <message>
         <source>ts_core_error_2563</source>
-        <translation type="unfinished"></translation>
+        <translation>empty result set</translation>
     </message>
     <message>
         <source>ts_core_error_2564</source>
-        <translation type="unfinished"></translation>
+        <translation>access to default group is forbidden</translation>
     </message>
     <message>
         <source>ts_core_error_2565</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid size</translation>
     </message>
     <message>
         <source>ts_core_error_2566</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid value</translation>
     </message>
     <message>
         <source>ts_core_error_2567</source>
-        <translation type="unfinished"></translation>
+        <translation>group is not empty</translation>
     </message>
     <message>
         <source>ts_core_error_2568</source>
-        <translation type="unfinished"></translation>
+        <translation>insufficient client permissions</translation>
     </message>
     <message>
         <source>ts_core_error_2569</source>
-        <translation type="unfinished"></translation>
+        <translation>insufficient group modify power</translation>
     </message>
     <message>
         <source>ts_core_error_2570</source>
-        <translation type="unfinished"></translation>
+        <translation>insufficient permission modify power</translation>
     </message>
     <message>
         <source>ts_core_error_2571</source>
-        <translation type="unfinished"></translation>
+        <translation>template group is currently used</translation>
     </message>
     <message>
         <source>ts_core_error_2572</source>
-        <translation type="unfinished"></translation>
+        <translation>permission error</translation>
     </message>
     <message>
         <source>ts_core_error_2816</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_2817</source>
-        <translation type="unfinished"></translation>
+        <translation>max slot limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_2818</source>
-        <translation type="unfinished"></translation>
+        <translation>license file not found</translation>
     </message>
     <message>
         <source>ts_core_error_2819</source>
-        <translation type="unfinished"></translation>
+        <translation>license date not ok</translation>
     </message>
     <message>
         <source>ts_core_error_2820</source>
-        <translation type="unfinished"></translation>
+        <translation>unable to connect to accounting server</translation>
     </message>
     <message>
         <source>ts_core_error_2821</source>
-        <translation type="unfinished"></translation>
+        <translation>unknown accounting error</translation>
     </message>
     <message>
         <source>ts_core_error_2822</source>
-        <translation type="unfinished"></translation>
+        <translation>accounting server error</translation>
     </message>
     <message>
         <source>ts_core_error_2823</source>
-        <translation type="unfinished"></translation>
+        <translation>instance limit reached</translation>
     </message>
     <message>
         <source>ts_core_error_2824</source>
-        <translation type="unfinished"></translation>
+        <translation>instance check error</translation>
     </message>
     <message>
         <source>ts_core_error_2825</source>
-        <translation type="unfinished"></translation>
+        <translation>license file invalid</translation>
     </message>
     <message>
         <source>ts_core_error_2826</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver is running elsewhere</translation>
     </message>
     <message>
         <source>ts_core_error_2827</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver running in same instance already</translation>
     </message>
     <message>
         <source>ts_core_error_2828</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver already started</translation>
     </message>
     <message>
         <source>ts_core_error_2829</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver not started</translation>
     </message>
     <message>
         <source>ts_core_error_2830</source>
-        <translation type="unfinished"></translation>
+        <translation>virtualserver started too many times in a certain time period</translation>
     </message>
     <message>
         <source>ts_core_error_3072</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid message id</translation>
     </message>
     <message>
         <source>ts_core_error_3328</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid ban id</translation>
     </message>
     <message>
         <source>ts_core_error_3329</source>
-        <translation type="unfinished"></translation>
+        <translation>connection failed, you are banned</translation>
     </message>
     <message>
         <source>ts_core_error_3330</source>
-        <translation type="unfinished"></translation>
+        <translation>rename failed, new name is banned</translation>
     </message>
     <message>
         <source>ts_core_error_3331</source>
-        <translation type="unfinished"></translation>
+        <translation>flood ban</translation>
     </message>
     <message>
         <source>ts_core_error_3584</source>
-        <translation type="unfinished"></translation>
+        <translation>unable to initialize tts</translation>
     </message>
     <message>
         <source>ts_core_error_3840</source>
-        <translation type="unfinished"></translation>
+        <translation>invalid privilege key</translation>
     </message>
 </context>
 </TS>
