@@ -13,15 +13,15 @@
     </message>
     <message>
         <source>Stable</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Update to TeamSpeak %1</source>
@@ -106,25 +106,25 @@ closed before starting the update.</source>
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Failed to query latest client
 version from update server.</source>
-        <translation type="unfinished">Не удалось запросить последную версию 
+        <translation>Не удалось запросить последнюю версию 
 клиента на сервере обновлений.</translation>
     </message>
     <message>
         <source>Update server returned no version</source>
-        <translation type="unfinished">Сервер обновлений возратил отсутствие версий</translation>
+        <translation>Сервер обновлений вернул отсутствие версий</translation>
     </message>
     <message>
         <source>Update server returned invalid version nr (%1)</source>
-        <translation type="unfinished">Сервер обновления вернул неверную версию номер (%1)</translation>
+        <translation>Сервер обновления вернул неверный номер версии (%1)</translation>
     </message>
     <message>
         <source>Invalid version nr (%1)</source>
-        <translation type="unfinished">Неверная версия номер (%1)</translation>
+        <translation>Неверный номер версии (%1)</translation>
     </message>
 </context>
 </TS>
