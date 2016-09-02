@@ -42,7 +42,7 @@
     <message>
         <source>ts_core_error_512</source>
         <translatorcomment>[URL=http://myteamspeak.ru/threads/4757]Обсуждение ошибки[/URL]</translatorcomment>
-        <translation>[color=red]#512[/color] [b]invalid clientID[/b] | Неверный идентификатор клиента</translation>
+        <translation>[color=red]#512[/color] [b]invalid clientID[/b] | Неверный идентификатор клиента [URL=http://myteamspeak.ru/threads/4757]Обсуждение ошибки[/URL]</translation>
     </message>
     <message>
         <source>ts_core_error_513</source>
@@ -375,7 +375,7 @@
     <message>
         <source>ts_core_error_2059</source>
         <translatorcomment>[URL=http://myteamspeak.ru/threads/4431]закрыт входящий порт TCP 30033[/URL]</translatorcomment>
-        <translation>[color=red]#2059[/color] [b]could not open file transfer connection[/b] | соединение для передачи файлов не было открыто.</translation>
+        <translation>[color=red]#2059[/color] [b]could not open file transfer connection[/b] | соединение для передачи файлов не было открыто. [URL=http://myteamspeak.ru/threads/4431]закрыт входящий порт TCP 30033[/URL]</translation>
     </message>
     <message>
         <source>ts_core_error_2060</source>
@@ -560,7 +560,7 @@
     <message>
         <source>ts_core_error_2568</source>
         <translatorcomment>[URL=http://myteamspeak.ru/threads/3695/#post-19313]возможное решение[/URL]</translatorcomment>
-        <translation>[color=red]#2568[/color] [b]insufficient client permissions[/b] | недостаточно привилегий пользователя. Проверяем [b]i_*_power[/b] &gt;= [b]i_*_needed_*_power[/b] и/или [b]Grant[/b]</translation>
+        <translation>[color=red]#2568[/color] [b]insufficient client permissions[/b] | недостаточно привилегий пользователя. Проверяем [b]i_*_power[/b] &gt;= [b]i_*_needed_*_power[/b] и/или [b]Grant[/b] [URL=http://myteamspeak.ru/threads/3695/#post-19313]возможное решение[/URL]</translation>
     </message>
     <message>
         <source>ts_core_error_2569</source>
@@ -569,7 +569,7 @@
     <message>
         <source>ts_core_error_2570</source>
         <translatorcomment>[URL=http://myteamspeak.ru/threads/1646/#post-8249]проверяем i_permission_modify_power и значения Grant[/URL]</translatorcomment>
-        <translation>[color=red]#2570[/color] [b]insufficient permission modify power[/b] | недостаточно разрешений для изменения привилегии</translation>
+        <translation>[color=red]#2570[/color] [b]insufficient permission modify power[/b] | недостаточно разрешений для изменения привилегии. [URL=http://myteamspeak.ru/threads/1646/#post-8249]проверяем i_permission_modify_power и значения Grant[/URL]</translation>
     </message>
     <message>
         <source>ts_core_error_2571</source>

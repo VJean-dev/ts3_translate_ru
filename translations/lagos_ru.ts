@@ -23,9 +23,9 @@
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
         <translatorcomment>текстовка в About</translatorcomment>
-        <translation>&lt;hr&gt;&lt;div style=&quot;border-top: 1px solid black; border-bottom: 1px solid black;&quot;&gt;&lt;a href=&quot;http://myteamspeak.ru/resources/rusifikator-ot-myteamspeak-ru.165/&quot;&gt;&lt;img style=&quot;float:left; margin: 10px 10px 10px 0;&quot; src=&quot;translations/mytsru.png&quot; alt=&quot;Проверка обновлений русификатора&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        <translation type="unfinished">&lt;hr&gt;&lt;div style=&quot;border-top: 1px solid black; border-bottom: 1px solid black;&quot;&gt;&lt;a href=&quot;http://myteamspeak.ru/resources/rusifikator-ot-myteamspeak-ru.165/&quot;&gt;&lt;img style=&quot;float:left; margin: 10px 10px 10px 0;&quot; src=&quot;translations/mytsru.png&quot; alt=&quot;Проверка обновлений русификатора&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
 Версия русификатора: &lt;span  style=&quot;font:3 em; color:red; font-weight: bold;&quot;&gt;3.1&lt;/span&gt;&lt;br&gt;
-от &lt;b&gt;31 августа 2016&lt;/b&gt; года&lt;br&gt;
+от &lt;b&gt;2 сентября 2016&lt;/b&gt; года&lt;br&gt;
 для TeamSpeak &lt;b&gt;3.1 beta2&lt;/b&gt;&lt;/div&gt;&lt;br&gt;
 Copyright &amp;copy; 2016 by VJean&lt;br&gt;
 является переосмысленной, доработанной и дополненной версий русификаторов: &lt;br&gt;
