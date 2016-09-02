@@ -7576,11 +7576,6 @@ Would you like to create an invitation instead?</source>
         <translation>Продолжить без входа в аккаунт</translation>
     </message>
     <message>
-        <source>You can login or create an account at any time in Settings</source>
-        <comment>moved to com::teamspeak::ui::Account_Create_Login_Dialog</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Synchronized profiles</source>
         <translation>Синхронизированные профили</translation>
     </message>
@@ -12248,7 +12243,6 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>You can login or create an account at any time in Settings</source>
-        <comment>QObject</comment>
         <translation>Вы сможете создать  или подключить аккаунт в любое время через меню &quot;Настройки&quot;</translation>
     </message>
 </context>
