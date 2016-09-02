@@ -7482,7 +7482,7 @@ Would you like to create an invitation instead?</source>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n минута</numerusform>
+            <numerusform>%n минуту</numerusform>
             <numerusform>%n минуты</numerusform>
             <numerusform>%n минут</numerusform>
         </translation>
@@ -7490,7 +7490,7 @@ Would you like to create an invitation instead?</source>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n секунда</numerusform>
+            <numerusform>%n секунду</numerusform>
             <numerusform>%n секунды</numerusform>
             <numerusform>%n секунд</numerusform>
         </translation>
