@@ -612,12 +612,12 @@
     <message>
         <source>b_virtualserver_modify_antiflood</source>
         <translatorcomment>Modify Virtual Server Anti-Flood Settings</translatorcomment>
-        <translation>Изменение настроек анти-флуда</translation>
+        <translation>Изменение настроек АнтиСпама</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_antiflood_long</source>
         <translatorcomment>Allows modifying the anti-flood settings of the virtual server: Every user action will increase a counter (&quot;points&quot;) by a predefined number. The setting &quot;Reduced points per tick&quot; defines the number of points reduced from that counter every time period (&quot;tick&quot;). If the number of points surpasses the value for &quot;Points needed to block commands&quot;, every user action will be blocked until the points have been reduced again over time. If the number surpasses the value for &quot;Points needed to block IP&quot;, the users IP will automatically be banned from the server.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Modify Virtual Server Anti-Flood Settings&lt;br&gt;&lt;i&gt;b_virtualserver_modify_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает изменять настройки анти-флуда на виртуальном сервере, такие как количество нарушений до того как сервер отправит предупреждающее сообщение, количество нарушений до автоматического кика или бана пользователя и длительность бана в секундах.</translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Modify Virtual Server Anti-Flood Settings&lt;br&gt;&lt;i&gt;b_virtualserver_modify_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает изменять настройки АнтиСпама на виртуальном сервере, такие как количество нарушений до того как сервер отправит предупреждающее сообщение, количество нарушений до автоматического кика или бана пользователя и длительность бана в секундах.</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_ft_settings</source>
@@ -964,22 +964,22 @@
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice</source>
         <translatorcomment>Create Channels with Opus Voice Codec</translatorcomment>
-        <translation>Создание с кодеком Opus Voice</translation>
+        <translation type="unfinished">Создание с кодеком Opus Голос</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice_long</source>
         <translatorcomment>Allows the creation of channels using the &lt;b&gt;Opus Voice&lt;/b&gt; codec.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Voice Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusvoice&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Voice&lt;/b&gt;.</translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Voice Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusvoice&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Голос&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic</source>
         <translatorcomment>Create Channels with Opus Music Codec</translatorcomment>
-        <translation>Создание с кодеком Opus Music</translation>
+        <translation type="unfinished">Создание с кодеком Opus Музыка</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic_long</source>
         <translatorcomment>Allows the creation of channels using the &lt;b&gt;Opus Music&lt;/b&gt; codec.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Music Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusmusic&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Music&lt;/b&gt;.</translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Music Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusmusic&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Музыка&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality</source>
@@ -1809,7 +1809,7 @@
     <message>
         <source>b_client_is_priority_speaker_long</source>
         <translatorcomment>This value shows whether or not the client is a priority speaker. All client volumes are automatically lowered by Speaker Dimm Modificator while a priority speaker is talking.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Client is Priority Speaker&lt;br&gt;&lt;i&gt;b_client_is_priority_speaker&lt;/i&gt;&lt;/p&gt;Отображает пользователей со статусом приоритета пользователя. Все разговоры пользователей автоматически затихают до значения серверной настройки &quot;Изменение значения приоритета пользователя&quot; &lt;i&gt;b_virtualserver_modify_priority_speaker_dimm_modificator&lt;/i&gt;, когда этот пользователь разговаривает.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Client is Priority Speaker&lt;br&gt;&lt;i&gt;b_client_is_priority_speaker&lt;/i&gt;&lt;/p&gt;Отображает пользователей со статусом приоритета пользователя. Все разговоры пользователей автоматически затихают до значения настройки &quot;Изменение значения приоритета пользователя&quot; &lt;i&gt;b_virtualserver_priority_speaker_dimm_modificator&lt;/i&gt;, когда этот пользователь разговаривает.</translation>
     </message>
     <message>
         <source>b_client_skip_channelgroup_permissions</source>
@@ -1824,12 +1824,12 @@
     <message>
         <source>b_client_force_push_to_talk</source>
         <translatorcomment>Force Push To Talk</translatorcomment>
-        <translation>Force Push To Talk</translation>
+        <translation>Принудительный &quot;Нажми-и-Говори&quot;</translation>
     </message>
     <message>
         <source>b_client_force_push_to_talk_long</source>
         <translatorcomment>This value defines whether or not the client is forced to use Push-To-Talk.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Force Push To Talk&lt;br&gt;&lt;i&gt;b_client_force_push_to_talk&lt;/i&gt;&lt;/p&gt;This value defines whether or not the client is forced to use Push-To-Talk.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Force Push To Talk&lt;br&gt;&lt;i&gt;b_client_force_push_to_talk&lt;/i&gt;&lt;/p&gt;Данная привилегия принудительно включает использование пользователем функции &quot;Нажми-и-Говори&quot;</translation>
     </message>
     <message>
         <source>b_client_ignore_bans</source>
@@ -1844,12 +1844,12 @@
     <message>
         <source>b_client_ignore_antiflood</source>
         <translatorcomment>Ignore Anti-Flood Measurements</translatorcomment>
-        <translation>Игнорировать анти-флуд предупреждения</translation>
+        <translation>Игнорировать АнтиСпам предупреждения</translation>
     </message>
     <message>
         <source>b_client_ignore_antiflood_long</source>
         <translatorcomment>Allows ignoring the anti-flood measurements of the virtual server.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Ignore Anti-Flood Measurements&lt;br&gt;&lt;i&gt;b_client_ignore_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает игнорировать анти-флуд предупреждения.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Ignore Anti-Flood Measurements&lt;br&gt;&lt;i&gt;b_client_ignore_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает игнорировать АнтиСпам предупреждения.</translation>
     </message>
     <message>
         <source>b_client_issue_client_query_command</source>
@@ -2366,22 +2366,22 @@
     <message>
         <source>i_ft_file_upload_power</source>
         <translatorcomment>File Upload Power</translatorcomment>
-        <translation>Право для отправки файла</translation>
+        <translation>Право для загрузки файла</translation>
     </message>
     <message>
         <source>i_ft_file_upload_power_long</source>
         <translatorcomment>This value defines the file upload power of a user or group. The value is compared to the Needed File Upload Power to decide if the user is allowed to upload a file.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;File Upload Power&lt;br&gt;&lt;i&gt;i_ft_file_upload_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы для отправки файлов в файловый браузер канала.&lt;br&gt;Значение должно быть больше или равно значения &quot;Необходимые права для отправки файла&quot; &lt;i&gt;i_ft_needed_file_upload_power&lt;/i&gt;.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;File Upload Power&lt;br&gt;&lt;i&gt;i_ft_file_upload_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы для загрузки файлов в файловый браузер канала.&lt;br&gt;Значение должно быть больше или равно значения &quot;Необходимые права для загрузки файла&quot; &lt;i&gt;i_ft_needed_file_upload_power&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>i_ft_needed_file_upload_power</source>
         <translatorcomment>Needed File Upload Power</translatorcomment>
-        <translation>Необходимые права для отправки файла</translation>
+        <translation>Необходимые права для загрузки файла</translation>
     </message>
     <message>
         <source>i_ft_needed_file_upload_power_long</source>
         <translatorcomment>This value defines the file upload power needed to be able to upload files to a channel.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Needed File Upload Power&lt;br&gt;&lt;i&gt;i_ft_needed_file_upload_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы, необходимых для отправки файлов в файловый браузер канала.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Needed File Upload Power&lt;br&gt;&lt;i&gt;i_ft_needed_file_upload_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы, необходимых для загрузки файлов в файловый браузер канала.</translation>
     </message>
     <message>
         <source>i_ft_file_download_power</source>
@@ -2466,22 +2466,22 @@
     <message>
         <source>i_ft_directory_create_power</source>
         <translatorcomment>Directory Create Power</translatorcomment>
-        <translation>Право для создания каталога (папки)</translation>
+        <translation>Право для создания папки</translation>
     </message>
     <message>
         <source>i_ft_directory_create_power_long</source>
         <translatorcomment>This value defines the directory create power of a user or group. The value is compared to the Needed Directory Create Power to decide if the user is allowed to create a directory.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Directory Create Power&lt;br&gt;&lt;i&gt;i_ft_directory_create_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы для создания каталога (папки) в файловом браузере канала.&lt;br&gt;Значение должно быть больше или равно значения &quot;Необходимые права для создания каталога (папки)&quot; &lt;i&gt;i_ft_needed_directory_create_power&lt;/i&gt;.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Directory Create Power&lt;br&gt;&lt;i&gt;i_ft_directory_create_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы для создания папки в файловом браузере канала.&lt;br&gt;Значение должно быть больше или равно значения &quot;Необходимые права для создания папки&quot; &lt;i&gt;i_ft_needed_directory_create_power&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>i_ft_needed_directory_create_power</source>
         <translatorcomment>Needed Directory Create Power</translatorcomment>
-        <translation>Необходимые права для создания каталога (папки)</translation>
+        <translation>Необходимые права для создания папки</translation>
     </message>
     <message>
         <source>i_ft_needed_directory_create_power_long</source>
         <translatorcomment>This value defines the directory create power needed to be able to create directories in a channel.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Needed Directory Create Power&lt;br&gt;&lt;i&gt;i_ft_needed_directory_create_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы, необходимых для создания каталога (папки) в файловом браузере канала.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Needed Directory Create Power&lt;br&gt;&lt;i&gt;i_ft_needed_directory_create_power&lt;/i&gt;&lt;/p&gt;Данное значение определяет количество прав пользователя или группы, необходимых для создания папки в файловом браузере канала.</translation>
     </message>
     <message>
         <source>i_ft_quota_mb_download_per_client</source>
@@ -2496,12 +2496,12 @@
     <message>
         <source>i_ft_quota_mb_upload_per_client</source>
         <translatorcomment>Upload Quota per Client (MByte)</translatorcomment>
-        <translation>Ограничение на отправку файлов (МБайт/месяц)</translation>
+        <translation>Ограничение на загрузку файлов (МБайт/месяц)</translation>
     </message>
     <message>
         <source>i_ft_quota_mb_upload_per_client_long</source>
         <translatorcomment>This value defines the upload quota in MByte per month for a client or group. Please note that &lt;b&gt;-1&lt;/b&gt; means that there is no limit.</translatorcomment>
-        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Upload Quota per Client (MByte)&lt;br&gt;&lt;i&gt;i_ft_quota_mb_upload_per_client&lt;/i&gt;&lt;/p&gt;Данное значение определяет ограничение (квоту) для пользователя или группы на отправку файлов в МБайт/месяц.&lt;br&gt;Обратите внимание, что &lt;b&gt;-1&lt;/b&gt; означает, что нет предела.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Upload Quota per Client (MByte)&lt;br&gt;&lt;i&gt;i_ft_quota_mb_upload_per_client&lt;/i&gt;&lt;/p&gt;Данное значение определяет ограничение (квоту) для пользователя или группы на загрузку файлов в МБайт/месяц.&lt;br&gt;Обратите внимание, что &lt;b&gt;-1&lt;/b&gt; означает, что нет предела.</translation>
     </message>
     <message>
         <source>grant_desc</source>
