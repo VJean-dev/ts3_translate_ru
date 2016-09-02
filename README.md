@@ -1,5 +1,4 @@
-# ts3_translate_ru
-Russian translate for TeamSpeak3 client
+# Russian translate for TeamSpeak3 client
 
 Русификатор клиента TeamSpeak3
 <br>
