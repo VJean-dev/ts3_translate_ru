@@ -12848,11 +12848,11 @@ Do you want to apply your changes?</source>
     <name>com::teamspeak::ui::WhisperSetup</name>
     <message>
         <source>Whisper</source>
-        <translation>Шепот</translation>
+        <translation>Нашептывание</translation>
     </message>
     <message>
         <source>Configure Whispering</source>
-        <translation>Настроить получение сообщений «шепотом»</translation>
+        <translation>Настроить нашептываемые сообщения</translation>
     </message>
 </context>
 <context>
