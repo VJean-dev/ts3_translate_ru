@@ -617,7 +617,7 @@
     <message>
         <source>b_virtualserver_modify_antiflood_long</source>
         <translatorcomment>Allows modifying the anti-flood settings of the virtual server: Every user action will increase a counter (&quot;points&quot;) by a predefined number. The setting &quot;Reduced points per tick&quot; defines the number of points reduced from that counter every time period (&quot;tick&quot;). If the number of points surpasses the value for &quot;Points needed to block commands&quot;, every user action will be blocked until the points have been reduced again over time. If the number surpasses the value for &quot;Points needed to block IP&quot;, the users IP will automatically be banned from the server.</translatorcomment>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Modify Virtual Server Anti-Flood Settings&lt;br&gt;&lt;i&gt;b_virtualserver_modify_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает изменять настройки АнтиСпама на виртуальном сервере, такие как количество нарушений до того как сервер отправит предупреждающее сообщение, количество нарушений до автоматического кика или бана пользователя и длительность бана в секундах.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Modify Virtual Server Anti-Flood Settings&lt;br&gt;&lt;i&gt;b_virtualserver_modify_antiflood&lt;/i&gt;&lt;/p&gt;Разрешает изменять настройки АнтиСпама на виртуальном сервере, такие как количество нарушений до того как сервер отправит предупреждающее сообщение, количество нарушений до автоматического кика или бана пользователя и длительность бана в секундах.</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_ft_settings</source>
@@ -964,22 +964,22 @@
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice</source>
         <translatorcomment>Create Channels with Opus Voice Codec</translatorcomment>
-        <translation type="unfinished">Создание с кодеком Opus Голос</translation>
+        <translation>Создание с кодеком Opus Голос</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice_long</source>
         <translatorcomment>Allows the creation of channels using the &lt;b&gt;Opus Voice&lt;/b&gt; codec.</translatorcomment>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Voice Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusvoice&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Голос&lt;/b&gt;.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Voice Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusvoice&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Голос&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic</source>
         <translatorcomment>Create Channels with Opus Music Codec</translatorcomment>
-        <translation type="unfinished">Создание с кодеком Opus Музыка</translation>
+        <translation>Создание с кодеком Opus Музыка</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic_long</source>
         <translatorcomment>Allows the creation of channels using the &lt;b&gt;Opus Music&lt;/b&gt; codec.</translatorcomment>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Music Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusmusic&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Музыка&lt;/b&gt;.</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap;text-align:center&apos;&gt;Create Channels with Opus Music Codec&lt;br&gt;&lt;i&gt;b_channel_create_modify_with_codec_opusmusic&lt;/i&gt;&lt;/p&gt;Разрешает создавать каналы, используя кодек &lt;b&gt;Opus Музыка&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality</source>
