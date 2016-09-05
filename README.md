@@ -1,13 +1,13 @@
-# Russian translate for TeamSpeak3 client
+# :us: Russian translate for TeamSpeak3 client
 
-Русификатор клиента TeamSpeak3
+:ru: Русификатор клиента TeamSpeak3
 <br>
 <br>
 <br>
 <br>
 
-#### Public active and bug reports
-#### Отзывы и сообщения об ошибках оставлять тут:
+#### :us: Public active and bug reports
+#### :ru: Отзывы и сообщения об ошибках оставлять тут:
 [Русификатор от myTeamSpeak.ru](http://myteamspeak.ru/resources/rusifikator-ot-myteamspeak-ru.165)
 <br>
 <br>
